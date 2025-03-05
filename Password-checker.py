@@ -34,7 +34,7 @@ st.markdown("""
         .main {text-align:center;}
         .stTextInput { width 60% !important;margin:auto;}
         .stButton button { width 30%;background-color #4CAF50; color:purple; font-size: 18px;}
-        .stButton button:hover {background-color: red;}
+        .stButton button:hover {background-color: red;color:white;}
 </style>
 """,unsafe_allow_html=True)
 
